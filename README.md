@@ -1,4 +1,4 @@
-# Some simple java project to practice your coding skill.
+# Some simple java projects to practice your coding skill.
 
 1. Input an integer and determine if the number is even or odd.
 
